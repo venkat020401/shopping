@@ -123,7 +123,7 @@ function App() {
 
           </div>
           <div className='col-lg-3'>
-            <h3>Your Cart Items  </h3><span className='quantity'>you can add max qty of 5 in same item</span>
+            <h3>Your Cart Items  </h3>
             <Cart cartList={cartList} removeCart={removeCart} incQuantity={incQuantity} decQuantity={decQuantity} />
             <div className='col-lg-3 w-100 mt-2 total'>
               <h4>Total : {total} /-</h4><button className=' btn btn-outline-secondary floatright'> Place order</button>

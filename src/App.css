@@ -73,9 +73,3 @@
 .display-4 {
   letter-spacing: .2rem;
 }
-
-.quantity {
-  display: flex;
-    align-items: center;
-    justify-content: center;
-}
