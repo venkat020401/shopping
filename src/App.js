@@ -66,7 +66,7 @@ function App() {
       id: 9,
       name: "realme 100W Soundbar",
       img: "https://image01.realme.net/general/20201009/1602214791898.jpg.webp",
-      price: 7000
+      price: 8000
 
     }
   ];
